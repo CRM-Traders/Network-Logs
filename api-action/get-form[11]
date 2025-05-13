@@ -1,0 +1,1 @@
+{"title":"Change Leverage","fields":[{"type":"text","name":"leverage","placeholder":"100","label":"Leverage","disabled":false,"autocomplete":true,"value":10}]}

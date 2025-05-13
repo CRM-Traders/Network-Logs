@@ -1,0 +1,1 @@
+{"title":"Change Group","fields":[{"type":"select","name":"group","placeholder":"Group","label":"Group","value":"Crypto","values":[{"label":"Currencies","value":11000},{"label":"Stocks","value":10010},{"label":"Commodities","value":10100},{"label":"Indices","value":10001},{"label":"Crypto","value":11100}],"is_multiple":false,"disabled":false}]}
